@@ -1,9 +1,10 @@
 import vador from '../images/vador.png'
+import { Link } from "react-router-dom";
 
 function Header() {
     return (
         <div>
-            <header className="bg-black py-5">
+            <header className="bg-black py-5 head">
                 <section className="container text-center text-white">
                     <h1 className=" font-face-gm text-warning">Star Wars Api</h1>
                 </section>
@@ -17,12 +18,15 @@ function Header() {
                     </button>
                     <div className="collapse navbar-collapse" id="mynavbar">
                         <ul className="navbar-nav me-auto">
+
                             <li className="nav-item">
-                                <a className="nav-link" href="javascript:void(0)">Accueil</a>
+                                <Link to='/' className="nav-link">Accueil</Link>
                             </li>
+
                             <li className="nav-item">
-                                <a className="nav-link" href="javascript:void(0)">Link</a>
+                                <Link to="/recherche" className="nav-link">Recherche</Link>
                             </li>
+
                         </ul>
                         <form className="d-flex">
                             <input className="form-control me-2" type="text" placeholder="Search"></input>
