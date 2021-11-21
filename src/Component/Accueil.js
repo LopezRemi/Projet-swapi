@@ -44,7 +44,7 @@ function Categories() {
                 // </li>
                 
                     <div className="card border border border-dark p-0 m-3 col-3 ">
-                        <img className="card-img-top" src="https://www.presse-citron.net/app/uploads/2021/01/lucasfilm-games-star-wars.jpg" alt="Card image cap" />
+                        <img className="card-img-top" src="https://www.presse-citron.net/app/uploads/2021/01/lucasfilm-games-star-wars.jpg" alt="Card img cap" />
                         <div className="card-body">
                             <h5 className="card-title text-center">{item}</h5>
                         </div>
