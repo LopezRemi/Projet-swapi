@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/projet-swapi/static/css/main.26f14d47.chunk.css",
+    "main.js": "/projet-swapi/static/js/main.ab4d0978.chunk.js",
+    "main.js.map": "/projet-swapi/static/js/main.ab4d0978.chunk.js.map",
+    "runtime-main.js": "/projet-swapi/static/js/runtime-main.9071d339.js",
+    "runtime-main.js.map": "/projet-swapi/static/js/runtime-main.9071d339.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/projet-swapi/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.7c2bf91b.chunk.js": "/projet-swapi/static/js/2.7c2bf91b.chunk.js",
+    "static/js/2.7c2bf91b.chunk.js.map": "/projet-swapi/static/js/2.7c2bf91b.chunk.js.map",
+    "static/js/3.113a7245.chunk.js": "/projet-swapi/static/js/3.113a7245.chunk.js",
+    "static/js/3.113a7245.chunk.js.map": "/projet-swapi/static/js/3.113a7245.chunk.js.map",
+    "index.html": "/projet-swapi/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/projet-swapi/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.26f14d47.chunk.css.map": "/projet-swapi/static/css/main.26f14d47.chunk.css.map",
+    "static/js/2.7c2bf91b.chunk.js.LICENSE.txt": "/projet-swapi/static/js/2.7c2bf91b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/projet-swapi/static/media/DISTGRG_.d573b80e.ttf",
+    "static/media/vador.181bb9c0.png": "/projet-swapi/static/media/vador.181bb9c0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9071d339.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.7c2bf91b.chunk.js",
+    "static/css/main.26f14d47.chunk.css",
+    "static/js/main.ab4d0978.chunk.js"
+  ]
+}
